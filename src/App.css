@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+
+.container-flex-with-padding {
+  display: flex;
+  padding: 10px;
+  gap: 10px;
+}
+
+.error-text {
+  color: red;
+  font-size: 12px;
+}
